@@ -28,7 +28,7 @@
 		"nesbot/carbon": "^2.68",
 		"symfony/mailer": "^6.3",
 		"willdurand/email-reply-parser": "^2.10",
-		"zbateson/mail-mime-parser": "^2.4"
+		"zbateson/mail-mime-parser": "^3.0"
 	},
 	"require-dev": {
 		"bombenprodukt/php-cs-fixer-config": "^1.0",
